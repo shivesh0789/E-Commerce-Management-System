@@ -191,7 +191,9 @@ Possible future enhancements include:
 * Role-based authentication
 
 ## Author
-Shivesh Kumar
+
+**Shivesh Kumar**
+
 BCA Student
 
 ## Project Purpose
