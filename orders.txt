@@ -1,0 +1,4 @@
+1|101|144000|Delivered|101,Laptop,80000,2;
+2|101|72000|Confirmed|101,Laptop,80000,1;
+3|101|72000|Cancelled|101,Laptop,80000,1;
+4|101|90000|Confirmed|104,TV,25000,1;101,Laptop,75000,1;
